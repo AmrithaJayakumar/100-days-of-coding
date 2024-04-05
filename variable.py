@@ -1,0 +1,11 @@
+name="Raju"
+print(name)
+money=200
+print("money=",money)
+cash=money
+print("cash=",cash)
+money='abc'
+print("money=",money)
+months=12
+year=365
+print("year=",25*months)

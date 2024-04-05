@@ -1,0 +1,10 @@
+a=2
+b=5
+c=2
+d=(a+b)*c
+print(d)
+a=5
+b=30
+c=20
+e=((a+b)*c)/a
+print(e)
